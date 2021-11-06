@@ -1,0 +1,8 @@
+$ git log --pretty=oneline
+2f14a47d09c548b084b573417eb2468f992bab4c (HEAD -> main, football) Merge branch 'numbat' of https://github.com/Gvviezdny/kolos20211106 into football
+5da0dcd550de1e5e348d3cbbe74336e7d3ace93f (tag: v1.1, origin/football) Premier League
+9bf40574db5a6b19bc3381f118df20d2e97fb9c2 Bundesliga Spieltag 11
+24c84b1183198f53c4b93c66b6a3e8fc06640f24 (tag: v1.0) Występowanie: Australia
+46d713354aa3bdd3254720c858378b6d044fd5bf Gatunek Numbata
+944b83696f3160ccc0b5ef4a86c53465bc1a8326 Światowy Dzień Numbata
+cfef64167a98b6e629e2f46bd3ced6755edb1f19 (origin/main, origin/HEAD) Initial commit
